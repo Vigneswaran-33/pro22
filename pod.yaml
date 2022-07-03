@@ -27,7 +27,7 @@ spec:
     spec:
       containers:
         - name: hello
-          image: iammithran/newimage:latest
+          image: dockerfamilygreens/kuber8:latest
           imagePullPolicy: Always
 
 
